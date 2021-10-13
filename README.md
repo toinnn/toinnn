@@ -30,6 +30,16 @@
 </div>
  <br> 
 
+  
+  ### My Social Networks:
+  
+<p align="left">
+<a href="mailto:limaalyson@hotmail.com" alt="Hotmail">
+<img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=pattrickx@edu.unifor.br" /></a>
+
+<a href="https://www.linkedin.com/in/alyson-lima-400822145/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-m-lima/" /></a>
+
 <!--
 **toinnn/toinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
