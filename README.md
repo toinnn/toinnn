@@ -39,6 +39,10 @@
 
 <a href="https://www.linkedin.com/in/alyson-lima-400822145/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-m-lima/" /></a>
+  
+  
+  
+  ![Snake animation](https://github.com/toinnn/toinnn/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **toinnn/toinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
