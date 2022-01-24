@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Alyson Lima
-
+<!--### Hi there 👋 I'm Alyson Lima-->
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Alyson Lima
 - 💻 Skills **Deep Learning, Computer Vision, Data Science**
 - 🔭 I’m currently working on [**KPMG**](https://www.linkedin.com/in/alyson-lima-400822145/)
 - 🌱 I’m currently learning **Reinforcement Learning**, **Spark**
