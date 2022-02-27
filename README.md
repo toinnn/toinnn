@@ -24,13 +24,14 @@
   <img align="center" height="30" width="80" src="https://miro.medium.com/max/502/1*9Q1rcr_peQdnGMwOYDBFhw.png"/>
  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/toinnn/toinnn/0342da0ce7da875dea9ee9600d38c4c04b3346cb/assets/Azure_devops.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="55" width="85" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/Spark_SQL____0_u1noledLKaJhXuuW.jpg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/toinnn/toinnn/0342da0ce7da875dea9ee9600d38c4c04b3346cb/assets/Azure_devops.svg" />
+
   <!--<img align="center" height="50" width="75" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/PySpark.jpeg" />-->
 </div>
  <br> 
