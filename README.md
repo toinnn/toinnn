@@ -30,7 +30,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="55" width="85" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/Spark_SQL____0_u1noledLKaJhXuuW.jpg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/Azure_devops.png" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/toinnn/toinnn/0342da0ce7da875dea9ee9600d38c4c04b3346cb/assets/Azure_devops.svg" />
   <!--<img align="center" height="50" width="75" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/PySpark.jpeg" />-->
 </div>
  <br> 
