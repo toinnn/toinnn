@@ -4,7 +4,7 @@
 
 - 💻 Skills **Deep Learning, Computer Vision, Data Science**
 - 🔭 I’m currently working on [**KPMG**](https://www.linkedin.com/in/alyson-lima-400822145/)
-- 🌱 I’m currently learning **Reinforcement Learning**, **Spark**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 <div align="center">
   <a href="https://github.com/toinnn">
