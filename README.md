@@ -20,6 +20,8 @@
   <img align="center" height="30" width="40" src="https://api.iconify.design/logos/opencv.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="55" width="85" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/Spark_SQL____0_u1noledLKaJhXuuW.jpg" />
+  <!--<img align="center" height="55" width="85" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/Spark_SQL____0_u1noledLKaJhXuuW-removebg-preview.png" />-->
+  
  
   <!--img align="center" height="30" width="40" src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4"/-->
   <img align="center" height="30" width="80" src="https://miro.medium.com/max/502/1*9Q1rcr_peQdnGMwOYDBFhw.png"/>
