@@ -24,7 +24,9 @@
   
  
   <!--img align="center" height="30" width="40" src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4"/-->
-  <img align="center" height="30" width="80" src="https://miro.medium.com/max/502/1*9Q1rcr_peQdnGMwOYDBFhw.png"/>
+  <!--<img align="center" height="30" width="80" src="https://miro.medium.com/max/502/1*9Q1rcr_peQdnGMwOYDBFhw.png"/>-->
+  <img align="center" height="30" width="80" src="https://raw.githubusercontent.com/toinnn/toinnn/main/assets/1_9Q1rcr_peQdnGMwOYDBFhw-removebg-preview.png"/>
+  
  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/toinnn/toinnn/0342da0ce7da875dea9ee9600d38c4c04b3346cb/assets/Azure_devops.svg" />
