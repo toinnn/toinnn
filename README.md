@@ -53,7 +53,7 @@
   
   
   <!--![Snake animation](https://github.com/toinnn/toinnn/blob/output/github-contribution-grid-snake.svg)-->
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/toinnn/toinnn/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **toinnn/toinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
