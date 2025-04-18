@@ -6,9 +6,11 @@
 <!--- 🔭 I’m currently working on [**KPMG**](https://www.linkedin.com/in/alyson-lima-400822145/) -->
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-<div align="center">
+<div style="display: inline_block">
+<!-- <div align="center"> -->
+  
   <a href="https://github.com/toinnn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toinnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toinnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toinnn&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
